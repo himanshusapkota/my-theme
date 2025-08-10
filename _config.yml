@@ -1,5 +1,8 @@
-title: tonic-starter
-description: ""
+title: NEPZILLA
+description: "It’s a minimal, clean Jekyll theme built for speed, simplicity, and creativity. "
+
+
 encoding: utf-8
+
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
